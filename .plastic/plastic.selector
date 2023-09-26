@@ -1,0 +1,4 @@
+repository "Metroid Vania@screaming_bone@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
